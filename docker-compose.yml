@@ -1,0 +1,33 @@
+version: '3.8'
+
+services:
+  db:
+    image: mysql:8.0
+    container_name: mysql_container
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: loansecure
+      MYSQL_USER: royerjrr
+      MYSQL_PASSWORD: Kira1515
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+
+  fastapi:
+    build: .
+    container_name: clever_volhard
+    restart: always
+    ports:
+      - "8000:8000"
+    depends_on:
+      - db
+    environment:
+      DATABASE_URL: "mysql+mysqlconnector://royerjrr:Kira1515@db/loansecure"
+    volumes:
+      - .:/app  # <-- Monte el código local dentro del contenedor
+    command: ["uvicorn", "index:app", "--host", "0.0.0.0", "--port", "8000", "--reload"]
+
+volumes:
+  mysql_data:
