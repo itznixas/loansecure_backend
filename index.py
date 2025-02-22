@@ -1,10 +1,13 @@
 from typing import Union
 from fastapi import FastAPI, Depends
-from config import ConfiguracionDeEnv  # Importa la clase correctamente
+from src.config import ConfiguracionDeEnv  # Importa la clase correctamente
 from src.database.database import create_db_and_tables, get_session
 from sqlmodel import Session  # Asegúrate de importar Session
 from typing import Annotated  # Usa typing en lugar de typing_extensions
 from src.routes.user_router import router as user_router
+from src.auth.auth_routes import router as auth_router
+
+
 
 app = FastAPI()
 
@@ -24,6 +27,7 @@ def read_item(item_id: int, q: Union[str, None] = None):
     return {"item_id": item_id, "q": q}
 
 app.include_router(user_router)
+app.include_router(auth_router)
 
 @app.on_event("startup")
 def on_startup():
