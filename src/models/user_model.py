@@ -12,18 +12,7 @@ class User(SQLModel, table=True):
     name: Optional[str] = None  # Opcional
     lastname: Optional[str] = None  # Opcional
     number_phone: Optional[str] = None  # Opcional
-    disabled: Union[bool, None] = None  # Opcional
+    disabled: bool = Field(default=False)  # Ahora el valor por defecto es False
     created_at: datetime = Field(default_factory=lambda: datetime.utcnow())
 
 
-
-class UserCreate(SQLModel):
-    username: str
-    email: str
-    password: str #no se guarda a la base de datos
-
-class UserResponse(SQLModel):
-    id: int
-    username: str
-    email: str
-    created_at: datetime    

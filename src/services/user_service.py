@@ -13,7 +13,8 @@ def user_register_service(user_data: UserCreateShema, session: Session):
         username = user_data.username,
         email = user_data.email,
         hashed_password = hashed,
-        created_at=datetime.utcnow()
+        created_at=datetime.utcnow(),
+        disabled= user_data.disabled if user_data.disabled is not None else False  
     )
 
     session.add(new_user)
