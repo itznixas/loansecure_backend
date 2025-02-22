@@ -1,7 +1,7 @@
 from fastapi import APIRouter, Depends, HTTPException
 from sqlmodel import Session, select
 from src.database.database import get_session
-from src.models.userModel import User
+from src.models.user_model import User
 from src.schemas.user_schemas import UserCreateShema, UserResponseSchema
 from src.services.user_service import user_register_service
 

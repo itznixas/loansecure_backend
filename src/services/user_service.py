@@ -1,5 +1,5 @@
 from src.schemas.user_schemas import UserCreateShema
-from src.models.userModel import User
+from src.models.user_model import User
 from datetime import datetime
 from fastapi import Depends
 from sqlmodel import Session

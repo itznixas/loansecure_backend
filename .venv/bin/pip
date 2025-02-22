@@ -1,4 +1,4 @@
-#!/home/itznixas/Personal/mina-proyect/.venv/bin/python3
+#!/home/itznixas/Desktop/mina-proyect/.venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys

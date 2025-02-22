@@ -1,4 +1,4 @@
-from src.models.userModel import *
+from src.models.user_model import User
 
 from passlib.context import CryptContext
 

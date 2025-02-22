@@ -10,7 +10,6 @@ class UserCreateShema(BaseModel):
         orm_mode = True 
 
 class UserResponseSchema(BaseModel):
-
     message: str
     user_id: int
     username: str
