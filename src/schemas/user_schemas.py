@@ -22,3 +22,4 @@ class UserResponseSchema(BaseModel):
 class UserLoginSchema(BaseModel):
     email: EmailStr
     password: str
+    disabled: Optional[bool] = False
