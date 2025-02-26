@@ -1,8 +1,10 @@
-from typing import Optional
-from sqlmodel import Field, SQLModel
+
+from sqlmodel import Field, SQLModel, Column
 from datetime import datetime
 from sqlmodel import SQLModel, Field
 from typing import Optional, Union
+from sqlalchemy.types import TIMESTAMP
+from sqlalchemy.sql import func 
 
 class User(SQLModel, table=True):
     id: Optional[int] = Field(default=None, primary_key=True)
@@ -13,6 +15,5 @@ class User(SQLModel, table=True):
     lastname: Optional[str] = None  # Opcional
     number_phone: Optional[str] = None  # Opcional
     disabled: bool = Field(default=False)  # Ahora el valor por defecto es False
-    created_at: datetime = Field(default_factory=lambda: datetime.utcnow())
-
+    created_at: datetime = Field(sa_column=Column(TIMESTAMP, server_default=func.now()))
 

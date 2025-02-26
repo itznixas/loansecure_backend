@@ -23,3 +23,6 @@ class UserLoginSchema(BaseModel):
     email: EmailStr
     password: str
     disabled: Optional[bool] = False
+
+class UserDisableSchema(BaseModel):
+    disable: Optional[bool] = True

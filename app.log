@@ -765,3 +765,1333 @@ WHERE user.email = %(email_1)s
 2025-02-24 17:29:23 - INFO - DESCRIBE `loansecure`.`user`
 2025-02-24 17:29:23 - INFO - [raw sql] {}
 2025-02-24 17:29:23 - INFO - COMMIT
+2025-02-24 17:35:53 - INFO - SELECT DATABASE()
+2025-02-24 17:35:53 - INFO - [raw sql] {}
+2025-02-24 17:35:53 - INFO - SELECT @@sql_mode
+2025-02-24 17:35:53 - INFO - [raw sql] {}
+2025-02-24 17:35:53 - INFO - SELECT @@lower_case_table_names
+2025-02-24 17:35:53 - INFO - [raw sql] {}
+2025-02-24 17:35:53 - INFO - BEGIN (implicit)
+2025-02-24 17:35:53 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-24 17:35:53 - INFO - [raw sql] {}
+2025-02-24 17:35:53 - INFO - COMMIT
+2025-02-25 17:29:38 - INFO - SELECT DATABASE()
+2025-02-25 17:29:38 - INFO - [raw sql] {}
+2025-02-25 17:29:38 - INFO - SELECT @@sql_mode
+2025-02-25 17:29:38 - INFO - [raw sql] {}
+2025-02-25 17:29:38 - INFO - SELECT @@lower_case_table_names
+2025-02-25 17:29:38 - INFO - [raw sql] {}
+2025-02-25 17:29:38 - INFO - BEGIN (implicit)
+2025-02-25 17:29:38 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 17:29:38 - INFO - [raw sql] {}
+2025-02-25 17:29:38 - INFO - COMMIT
+2025-02-25 17:30:38 - INFO - SELECT DATABASE()
+2025-02-25 17:30:38 - INFO - [raw sql] {}
+2025-02-25 17:30:38 - INFO - SELECT @@sql_mode
+2025-02-25 17:30:38 - INFO - [raw sql] {}
+2025-02-25 17:30:38 - INFO - SELECT @@lower_case_table_names
+2025-02-25 17:30:38 - INFO - [raw sql] {}
+2025-02-25 17:30:38 - INFO - BEGIN (implicit)
+2025-02-25 17:30:38 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 17:30:38 - INFO - [raw sql] {}
+2025-02-25 17:30:38 - INFO - COMMIT
+2025-02-25 17:31:04 - INFO - SELECT DATABASE()
+2025-02-25 17:31:04 - INFO - [raw sql] {}
+2025-02-25 17:31:04 - INFO - SELECT @@sql_mode
+2025-02-25 17:31:04 - INFO - [raw sql] {}
+2025-02-25 17:31:05 - INFO - SELECT @@lower_case_table_names
+2025-02-25 17:31:05 - INFO - [raw sql] {}
+2025-02-25 17:31:05 - INFO - BEGIN (implicit)
+2025-02-25 17:31:05 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 17:31:05 - INFO - [raw sql] {}
+2025-02-25 17:31:05 - INFO - COMMIT
+2025-02-25 18:17:18 - INFO - SELECT DATABASE()
+2025-02-25 18:17:18 - INFO - [raw sql] {}
+2025-02-25 18:17:18 - INFO - SELECT @@sql_mode
+2025-02-25 18:17:18 - INFO - [raw sql] {}
+2025-02-25 18:17:18 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:17:18 - INFO - [raw sql] {}
+2025-02-25 18:17:18 - INFO - BEGIN (implicit)
+2025-02-25 18:17:18 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:17:18 - INFO - [raw sql] {}
+2025-02-25 18:17:18 - INFO - COMMIT
+2025-02-25 18:18:14 - INFO - SELECT DATABASE()
+2025-02-25 18:18:14 - INFO - [raw sql] {}
+2025-02-25 18:18:14 - INFO - SELECT @@sql_mode
+2025-02-25 18:18:14 - INFO - [raw sql] {}
+2025-02-25 18:18:14 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:18:14 - INFO - [raw sql] {}
+2025-02-25 18:18:15 - INFO - BEGIN (implicit)
+2025-02-25 18:18:15 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:18:15 - INFO - [raw sql] {}
+2025-02-25 18:18:15 - INFO - COMMIT
+2025-02-25 18:19:13 - INFO - SELECT DATABASE()
+2025-02-25 18:19:13 - INFO - [raw sql] {}
+2025-02-25 18:19:13 - INFO - SELECT @@sql_mode
+2025-02-25 18:19:13 - INFO - [raw sql] {}
+2025-02-25 18:19:13 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:19:13 - INFO - [raw sql] {}
+2025-02-25 18:19:13 - INFO - BEGIN (implicit)
+2025-02-25 18:19:13 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:19:13 - INFO - [raw sql] {}
+2025-02-25 18:19:13 - INFO - COMMIT
+2025-02-25 18:28:41 - INFO - SELECT DATABASE()
+2025-02-25 18:28:41 - INFO - [raw sql] {}
+2025-02-25 18:28:41 - INFO - SELECT @@sql_mode
+2025-02-25 18:28:41 - INFO - [raw sql] {}
+2025-02-25 18:28:41 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:28:41 - INFO - [raw sql] {}
+2025-02-25 18:28:41 - INFO - BEGIN (implicit)
+2025-02-25 18:28:41 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:28:41 - INFO - [raw sql] {}
+2025-02-25 18:28:41 - INFO - COMMIT
+2025-02-25 18:28:49 - INFO - SELECT DATABASE()
+2025-02-25 18:28:49 - INFO - [raw sql] {}
+2025-02-25 18:28:49 - INFO - SELECT @@sql_mode
+2025-02-25 18:28:49 - INFO - [raw sql] {}
+2025-02-25 18:28:49 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:28:49 - INFO - [raw sql] {}
+2025-02-25 18:28:49 - INFO - BEGIN (implicit)
+2025-02-25 18:28:49 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:28:49 - INFO - [raw sql] {}
+2025-02-25 18:28:49 - INFO - COMMIT
+2025-02-25 18:28:59 - INFO - SELECT DATABASE()
+2025-02-25 18:28:59 - INFO - [raw sql] {}
+2025-02-25 18:28:59 - INFO - SELECT @@sql_mode
+2025-02-25 18:28:59 - INFO - [raw sql] {}
+2025-02-25 18:28:59 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:28:59 - INFO - [raw sql] {}
+2025-02-25 18:28:59 - INFO - BEGIN (implicit)
+2025-02-25 18:28:59 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:28:59 - INFO - [raw sql] {}
+2025-02-25 18:28:59 - INFO - COMMIT
+2025-02-25 18:29:04 - INFO - SELECT DATABASE()
+2025-02-25 18:29:04 - INFO - [raw sql] {}
+2025-02-25 18:29:04 - INFO - SELECT @@sql_mode
+2025-02-25 18:29:04 - INFO - [raw sql] {}
+2025-02-25 18:29:04 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:29:04 - INFO - [raw sql] {}
+2025-02-25 18:29:04 - INFO - BEGIN (implicit)
+2025-02-25 18:29:04 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:29:04 - INFO - [raw sql] {}
+2025-02-25 18:29:04 - INFO - COMMIT
+2025-02-25 18:29:11 - INFO - SELECT DATABASE()
+2025-02-25 18:29:11 - INFO - [raw sql] {}
+2025-02-25 18:29:11 - INFO - SELECT @@sql_mode
+2025-02-25 18:29:11 - INFO - [raw sql] {}
+2025-02-25 18:29:11 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:29:11 - INFO - [raw sql] {}
+2025-02-25 18:29:11 - INFO - BEGIN (implicit)
+2025-02-25 18:29:11 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:29:11 - INFO - [raw sql] {}
+2025-02-25 18:29:11 - INFO - COMMIT
+2025-02-25 18:29:18 - INFO - SELECT DATABASE()
+2025-02-25 18:29:18 - INFO - [raw sql] {}
+2025-02-25 18:29:18 - INFO - SELECT @@sql_mode
+2025-02-25 18:29:18 - INFO - [raw sql] {}
+2025-02-25 18:29:18 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:29:18 - INFO - [raw sql] {}
+2025-02-25 18:29:18 - INFO - BEGIN (implicit)
+2025-02-25 18:29:18 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:29:18 - INFO - [raw sql] {}
+2025-02-25 18:29:18 - INFO - COMMIT
+2025-02-25 18:29:24 - INFO - SELECT DATABASE()
+2025-02-25 18:29:24 - INFO - [raw sql] {}
+2025-02-25 18:29:24 - INFO - SELECT @@sql_mode
+2025-02-25 18:29:24 - INFO - [raw sql] {}
+2025-02-25 18:29:24 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:29:24 - INFO - [raw sql] {}
+2025-02-25 18:29:24 - INFO - BEGIN (implicit)
+2025-02-25 18:29:24 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:29:24 - INFO - [raw sql] {}
+2025-02-25 18:29:24 - INFO - COMMIT
+2025-02-25 18:29:31 - INFO - SELECT DATABASE()
+2025-02-25 18:29:31 - INFO - [raw sql] {}
+2025-02-25 18:29:31 - INFO - SELECT @@sql_mode
+2025-02-25 18:29:31 - INFO - [raw sql] {}
+2025-02-25 18:29:31 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:29:31 - INFO - [raw sql] {}
+2025-02-25 18:29:31 - INFO - BEGIN (implicit)
+2025-02-25 18:29:31 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:29:31 - INFO - [raw sql] {}
+2025-02-25 18:29:31 - INFO - COMMIT
+2025-02-25 18:29:43 - INFO - SELECT DATABASE()
+2025-02-25 18:29:43 - INFO - [raw sql] {}
+2025-02-25 18:29:43 - INFO - SELECT @@sql_mode
+2025-02-25 18:29:43 - INFO - [raw sql] {}
+2025-02-25 18:29:43 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:29:43 - INFO - [raw sql] {}
+2025-02-25 18:29:43 - INFO - BEGIN (implicit)
+2025-02-25 18:29:43 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:29:43 - INFO - [raw sql] {}
+2025-02-25 18:29:43 - INFO - COMMIT
+2025-02-25 18:29:48 - INFO - SELECT DATABASE()
+2025-02-25 18:29:48 - INFO - [raw sql] {}
+2025-02-25 18:29:48 - INFO - SELECT @@sql_mode
+2025-02-25 18:29:48 - INFO - [raw sql] {}
+2025-02-25 18:29:48 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:29:48 - INFO - [raw sql] {}
+2025-02-25 18:29:48 - INFO - BEGIN (implicit)
+2025-02-25 18:29:48 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:29:48 - INFO - [raw sql] {}
+2025-02-25 18:29:49 - INFO - COMMIT
+2025-02-25 18:29:54 - INFO - SELECT DATABASE()
+2025-02-25 18:29:54 - INFO - [raw sql] {}
+2025-02-25 18:29:54 - INFO - SELECT @@sql_mode
+2025-02-25 18:29:54 - INFO - [raw sql] {}
+2025-02-25 18:29:55 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:29:55 - INFO - [raw sql] {}
+2025-02-25 18:29:55 - INFO - BEGIN (implicit)
+2025-02-25 18:29:55 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:29:55 - INFO - [raw sql] {}
+2025-02-25 18:29:55 - INFO - COMMIT
+2025-02-25 18:30:02 - INFO - SELECT DATABASE()
+2025-02-25 18:30:02 - INFO - [raw sql] {}
+2025-02-25 18:30:02 - INFO - SELECT @@sql_mode
+2025-02-25 18:30:02 - INFO - [raw sql] {}
+2025-02-25 18:30:02 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:30:02 - INFO - [raw sql] {}
+2025-02-25 18:30:02 - INFO - BEGIN (implicit)
+2025-02-25 18:30:02 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:30:02 - INFO - [raw sql] {}
+2025-02-25 18:30:02 - INFO - COMMIT
+2025-02-25 18:30:10 - INFO - SELECT DATABASE()
+2025-02-25 18:30:10 - INFO - [raw sql] {}
+2025-02-25 18:30:10 - INFO - SELECT @@sql_mode
+2025-02-25 18:30:10 - INFO - [raw sql] {}
+2025-02-25 18:30:10 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:30:10 - INFO - [raw sql] {}
+2025-02-25 18:30:10 - INFO - BEGIN (implicit)
+2025-02-25 18:30:10 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:30:10 - INFO - [raw sql] {}
+2025-02-25 18:30:10 - INFO - COMMIT
+2025-02-25 18:30:19 - INFO - SELECT DATABASE()
+2025-02-25 18:30:19 - INFO - [raw sql] {}
+2025-02-25 18:30:19 - INFO - SELECT @@sql_mode
+2025-02-25 18:30:19 - INFO - [raw sql] {}
+2025-02-25 18:30:19 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:30:19 - INFO - [raw sql] {}
+2025-02-25 18:30:19 - INFO - BEGIN (implicit)
+2025-02-25 18:30:19 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:30:19 - INFO - [raw sql] {}
+2025-02-25 18:30:19 - INFO - COMMIT
+2025-02-25 18:30:23 - INFO - SELECT DATABASE()
+2025-02-25 18:30:23 - INFO - [raw sql] {}
+2025-02-25 18:30:23 - INFO - SELECT @@sql_mode
+2025-02-25 18:30:23 - INFO - [raw sql] {}
+2025-02-25 18:30:23 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:30:23 - INFO - [raw sql] {}
+2025-02-25 18:30:23 - INFO - BEGIN (implicit)
+2025-02-25 18:30:23 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:30:23 - INFO - [raw sql] {}
+2025-02-25 18:30:23 - INFO - COMMIT
+2025-02-25 18:30:33 - INFO - SELECT DATABASE()
+2025-02-25 18:30:33 - INFO - [raw sql] {}
+2025-02-25 18:30:33 - INFO - SELECT @@sql_mode
+2025-02-25 18:30:33 - INFO - [raw sql] {}
+2025-02-25 18:30:33 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:30:33 - INFO - [raw sql] {}
+2025-02-25 18:30:33 - INFO - BEGIN (implicit)
+2025-02-25 18:30:33 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:30:33 - INFO - [raw sql] {}
+2025-02-25 18:30:33 - INFO - COMMIT
+2025-02-25 18:30:54 - INFO - SELECT DATABASE()
+2025-02-25 18:30:54 - INFO - [raw sql] {}
+2025-02-25 18:30:54 - INFO - SELECT @@sql_mode
+2025-02-25 18:30:54 - INFO - [raw sql] {}
+2025-02-25 18:30:54 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:30:54 - INFO - [raw sql] {}
+2025-02-25 18:30:54 - INFO - BEGIN (implicit)
+2025-02-25 18:30:54 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:30:54 - INFO - [raw sql] {}
+2025-02-25 18:30:54 - INFO - COMMIT
+2025-02-25 18:31:06 - INFO - SELECT DATABASE()
+2025-02-25 18:31:06 - INFO - [raw sql] {}
+2025-02-25 18:31:06 - INFO - SELECT @@sql_mode
+2025-02-25 18:31:06 - INFO - [raw sql] {}
+2025-02-25 18:31:06 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:31:06 - INFO - [raw sql] {}
+2025-02-25 18:31:06 - INFO - BEGIN (implicit)
+2025-02-25 18:31:06 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:31:06 - INFO - [raw sql] {}
+2025-02-25 18:31:06 - INFO - COMMIT
+2025-02-25 18:31:16 - INFO - SELECT DATABASE()
+2025-02-25 18:31:16 - INFO - [raw sql] {}
+2025-02-25 18:31:16 - INFO - SELECT @@sql_mode
+2025-02-25 18:31:16 - INFO - [raw sql] {}
+2025-02-25 18:31:16 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:31:16 - INFO - [raw sql] {}
+2025-02-25 18:31:16 - INFO - BEGIN (implicit)
+2025-02-25 18:31:16 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:31:16 - INFO - [raw sql] {}
+2025-02-25 18:31:16 - INFO - COMMIT
+2025-02-25 18:31:24 - INFO - SELECT DATABASE()
+2025-02-25 18:31:24 - INFO - [raw sql] {}
+2025-02-25 18:31:24 - INFO - SELECT @@sql_mode
+2025-02-25 18:31:24 - INFO - [raw sql] {}
+2025-02-25 18:31:24 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:31:25 - INFO - [raw sql] {}
+2025-02-25 18:31:25 - INFO - BEGIN (implicit)
+2025-02-25 18:31:25 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:31:25 - INFO - [raw sql] {}
+2025-02-25 18:31:25 - INFO - COMMIT
+2025-02-25 18:31:32 - INFO - SELECT DATABASE()
+2025-02-25 18:31:32 - INFO - [raw sql] {}
+2025-02-25 18:31:32 - INFO - SELECT @@sql_mode
+2025-02-25 18:31:32 - INFO - [raw sql] {}
+2025-02-25 18:31:32 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:31:32 - INFO - [raw sql] {}
+2025-02-25 18:31:32 - INFO - BEGIN (implicit)
+2025-02-25 18:31:32 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:31:32 - INFO - [raw sql] {}
+2025-02-25 18:31:32 - INFO - COMMIT
+2025-02-25 18:31:35 - INFO - SELECT DATABASE()
+2025-02-25 18:31:35 - INFO - [raw sql] {}
+2025-02-25 18:31:35 - INFO - SELECT @@sql_mode
+2025-02-25 18:31:35 - INFO - [raw sql] {}
+2025-02-25 18:31:35 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:31:35 - INFO - [raw sql] {}
+2025-02-25 18:31:35 - INFO - BEGIN (implicit)
+2025-02-25 18:31:35 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:31:35 - INFO - [raw sql] {}
+2025-02-25 18:31:35 - INFO - COMMIT
+2025-02-25 18:31:48 - INFO - SELECT DATABASE()
+2025-02-25 18:31:48 - INFO - [raw sql] {}
+2025-02-25 18:31:48 - INFO - SELECT @@sql_mode
+2025-02-25 18:31:48 - INFO - [raw sql] {}
+2025-02-25 18:31:48 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:31:48 - INFO - [raw sql] {}
+2025-02-25 18:31:48 - INFO - BEGIN (implicit)
+2025-02-25 18:31:48 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:31:48 - INFO - [raw sql] {}
+2025-02-25 18:31:48 - INFO - COMMIT
+2025-02-25 18:32:15 - INFO - SELECT DATABASE()
+2025-02-25 18:32:15 - INFO - [raw sql] {}
+2025-02-25 18:32:15 - INFO - SELECT @@sql_mode
+2025-02-25 18:32:15 - INFO - [raw sql] {}
+2025-02-25 18:32:15 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:32:15 - INFO - [raw sql] {}
+2025-02-25 18:32:15 - INFO - BEGIN (implicit)
+2025-02-25 18:32:15 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:32:15 - INFO - [raw sql] {}
+2025-02-25 18:32:15 - INFO - COMMIT
+2025-02-25 18:32:17 - INFO - SELECT DATABASE()
+2025-02-25 18:32:17 - INFO - [raw sql] {}
+2025-02-25 18:32:17 - INFO - SELECT @@sql_mode
+2025-02-25 18:32:17 - INFO - [raw sql] {}
+2025-02-25 18:32:17 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:32:17 - INFO - [raw sql] {}
+2025-02-25 18:32:17 - INFO - BEGIN (implicit)
+2025-02-25 18:32:17 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:32:17 - INFO - [raw sql] {}
+2025-02-25 18:32:17 - INFO - COMMIT
+2025-02-25 18:32:47 - INFO - SELECT DATABASE()
+2025-02-25 18:32:47 - INFO - [raw sql] {}
+2025-02-25 18:32:47 - INFO - SELECT @@sql_mode
+2025-02-25 18:32:47 - INFO - [raw sql] {}
+2025-02-25 18:32:47 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:32:47 - INFO - [raw sql] {}
+2025-02-25 18:32:47 - INFO - BEGIN (implicit)
+2025-02-25 18:32:47 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:32:47 - INFO - [raw sql] {}
+2025-02-25 18:32:47 - INFO - COMMIT
+2025-02-25 18:32:53 - INFO - SELECT DATABASE()
+2025-02-25 18:32:54 - INFO - [raw sql] {}
+2025-02-25 18:32:54 - INFO - SELECT @@sql_mode
+2025-02-25 18:32:54 - INFO - [raw sql] {}
+2025-02-25 18:32:54 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:32:54 - INFO - [raw sql] {}
+2025-02-25 18:32:54 - INFO - BEGIN (implicit)
+2025-02-25 18:32:54 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:32:54 - INFO - [raw sql] {}
+2025-02-25 18:32:54 - INFO - COMMIT
+2025-02-25 18:33:00 - INFO - SELECT DATABASE()
+2025-02-25 18:33:00 - INFO - [raw sql] {}
+2025-02-25 18:33:00 - INFO - SELECT @@sql_mode
+2025-02-25 18:33:00 - INFO - [raw sql] {}
+2025-02-25 18:33:00 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:33:00 - INFO - [raw sql] {}
+2025-02-25 18:33:00 - INFO - BEGIN (implicit)
+2025-02-25 18:33:00 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:33:00 - INFO - [raw sql] {}
+2025-02-25 18:33:00 - INFO - COMMIT
+2025-02-25 18:33:12 - INFO - SELECT DATABASE()
+2025-02-25 18:33:12 - INFO - [raw sql] {}
+2025-02-25 18:33:12 - INFO - SELECT @@sql_mode
+2025-02-25 18:33:12 - INFO - [raw sql] {}
+2025-02-25 18:33:12 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:33:12 - INFO - [raw sql] {}
+2025-02-25 18:33:12 - INFO - BEGIN (implicit)
+2025-02-25 18:33:12 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:33:12 - INFO - [raw sql] {}
+2025-02-25 18:33:12 - INFO - COMMIT
+2025-02-25 18:33:17 - INFO - SELECT DATABASE()
+2025-02-25 18:33:17 - INFO - [raw sql] {}
+2025-02-25 18:33:17 - INFO - SELECT @@sql_mode
+2025-02-25 18:33:17 - INFO - [raw sql] {}
+2025-02-25 18:33:17 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:33:17 - INFO - [raw sql] {}
+2025-02-25 18:33:17 - INFO - BEGIN (implicit)
+2025-02-25 18:33:17 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:33:17 - INFO - [raw sql] {}
+2025-02-25 18:33:17 - INFO - COMMIT
+2025-02-25 18:33:40 - INFO - SELECT DATABASE()
+2025-02-25 18:33:40 - INFO - [raw sql] {}
+2025-02-25 18:33:40 - INFO - SELECT @@sql_mode
+2025-02-25 18:33:40 - INFO - [raw sql] {}
+2025-02-25 18:33:40 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:33:40 - INFO - [raw sql] {}
+2025-02-25 18:33:40 - INFO - BEGIN (implicit)
+2025-02-25 18:33:40 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:33:40 - INFO - [raw sql] {}
+2025-02-25 18:33:40 - INFO - COMMIT
+2025-02-25 18:34:26 - INFO - SELECT DATABASE()
+2025-02-25 18:34:26 - INFO - [raw sql] {}
+2025-02-25 18:34:26 - INFO - SELECT @@sql_mode
+2025-02-25 18:34:26 - INFO - [raw sql] {}
+2025-02-25 18:34:26 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:34:26 - INFO - [raw sql] {}
+2025-02-25 18:34:26 - INFO - BEGIN (implicit)
+2025-02-25 18:34:26 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:34:26 - INFO - [raw sql] {}
+2025-02-25 18:34:26 - INFO - COMMIT
+2025-02-25 18:34:35 - INFO - SELECT DATABASE()
+2025-02-25 18:34:35 - INFO - [raw sql] {}
+2025-02-25 18:34:35 - INFO - SELECT @@sql_mode
+2025-02-25 18:34:35 - INFO - [raw sql] {}
+2025-02-25 18:34:35 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:34:35 - INFO - [raw sql] {}
+2025-02-25 18:34:35 - INFO - BEGIN (implicit)
+2025-02-25 18:34:35 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:34:35 - INFO - [raw sql] {}
+2025-02-25 18:34:35 - INFO - COMMIT
+2025-02-25 18:34:43 - INFO - SELECT DATABASE()
+2025-02-25 18:34:43 - INFO - [raw sql] {}
+2025-02-25 18:34:43 - INFO - SELECT @@sql_mode
+2025-02-25 18:34:43 - INFO - [raw sql] {}
+2025-02-25 18:34:43 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:34:43 - INFO - [raw sql] {}
+2025-02-25 18:34:43 - INFO - BEGIN (implicit)
+2025-02-25 18:34:43 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:34:43 - INFO - [raw sql] {}
+2025-02-25 18:34:43 - INFO - COMMIT
+2025-02-25 18:36:13 - INFO - SELECT DATABASE()
+2025-02-25 18:36:13 - INFO - [raw sql] {}
+2025-02-25 18:36:13 - INFO - SELECT @@sql_mode
+2025-02-25 18:36:13 - INFO - [raw sql] {}
+2025-02-25 18:36:13 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:36:13 - INFO - [raw sql] {}
+2025-02-25 18:36:13 - INFO - BEGIN (implicit)
+2025-02-25 18:36:13 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:36:13 - INFO - [raw sql] {}
+2025-02-25 18:36:13 - INFO - COMMIT
+2025-02-25 18:36:21 - INFO - SELECT DATABASE()
+2025-02-25 18:36:21 - INFO - [raw sql] {}
+2025-02-25 18:36:21 - INFO - SELECT @@sql_mode
+2025-02-25 18:36:21 - INFO - [raw sql] {}
+2025-02-25 18:36:21 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:36:21 - INFO - [raw sql] {}
+2025-02-25 18:36:21 - INFO - BEGIN (implicit)
+2025-02-25 18:36:21 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:36:21 - INFO - [raw sql] {}
+2025-02-25 18:36:21 - INFO - COMMIT
+2025-02-25 18:36:44 - INFO - SELECT DATABASE()
+2025-02-25 18:36:44 - INFO - [raw sql] {}
+2025-02-25 18:36:44 - INFO - SELECT @@sql_mode
+2025-02-25 18:36:44 - INFO - [raw sql] {}
+2025-02-25 18:36:44 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:36:44 - INFO - [raw sql] {}
+2025-02-25 18:36:44 - INFO - BEGIN (implicit)
+2025-02-25 18:36:44 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:36:44 - INFO - [raw sql] {}
+2025-02-25 18:36:44 - INFO - COMMIT
+2025-02-25 18:36:53 - INFO - SELECT DATABASE()
+2025-02-25 18:36:53 - INFO - [raw sql] {}
+2025-02-25 18:36:53 - INFO - SELECT @@sql_mode
+2025-02-25 18:36:53 - INFO - [raw sql] {}
+2025-02-25 18:36:53 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:36:53 - INFO - [raw sql] {}
+2025-02-25 18:36:53 - INFO - BEGIN (implicit)
+2025-02-25 18:36:53 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:36:53 - INFO - [raw sql] {}
+2025-02-25 18:36:53 - INFO - COMMIT
+2025-02-25 18:37:00 - INFO - SELECT DATABASE()
+2025-02-25 18:37:00 - INFO - [raw sql] {}
+2025-02-25 18:37:00 - INFO - SELECT @@sql_mode
+2025-02-25 18:37:00 - INFO - [raw sql] {}
+2025-02-25 18:37:00 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:37:00 - INFO - [raw sql] {}
+2025-02-25 18:37:00 - INFO - BEGIN (implicit)
+2025-02-25 18:37:00 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:37:00 - INFO - [raw sql] {}
+2025-02-25 18:37:00 - INFO - COMMIT
+2025-02-25 18:37:09 - INFO - SELECT DATABASE()
+2025-02-25 18:37:09 - INFO - [raw sql] {}
+2025-02-25 18:37:09 - INFO - SELECT @@sql_mode
+2025-02-25 18:37:09 - INFO - [raw sql] {}
+2025-02-25 18:37:09 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:37:09 - INFO - [raw sql] {}
+2025-02-25 18:37:09 - INFO - BEGIN (implicit)
+2025-02-25 18:37:09 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:37:09 - INFO - [raw sql] {}
+2025-02-25 18:37:09 - INFO - COMMIT
+2025-02-25 18:37:16 - INFO - SELECT DATABASE()
+2025-02-25 18:37:16 - INFO - [raw sql] {}
+2025-02-25 18:37:16 - INFO - SELECT @@sql_mode
+2025-02-25 18:37:16 - INFO - [raw sql] {}
+2025-02-25 18:37:16 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:37:16 - INFO - [raw sql] {}
+2025-02-25 18:37:16 - INFO - BEGIN (implicit)
+2025-02-25 18:37:16 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:37:16 - INFO - [raw sql] {}
+2025-02-25 18:37:16 - INFO - COMMIT
+2025-02-25 18:37:23 - INFO - SELECT DATABASE()
+2025-02-25 18:37:23 - INFO - [raw sql] {}
+2025-02-25 18:37:23 - INFO - SELECT @@sql_mode
+2025-02-25 18:37:23 - INFO - [raw sql] {}
+2025-02-25 18:37:24 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:37:24 - INFO - [raw sql] {}
+2025-02-25 18:37:24 - INFO - BEGIN (implicit)
+2025-02-25 18:37:24 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:37:24 - INFO - [raw sql] {}
+2025-02-25 18:37:24 - INFO - COMMIT
+2025-02-25 18:37:32 - INFO - SELECT DATABASE()
+2025-02-25 18:37:32 - INFO - [raw sql] {}
+2025-02-25 18:37:32 - INFO - SELECT @@sql_mode
+2025-02-25 18:37:32 - INFO - [raw sql] {}
+2025-02-25 18:37:32 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:37:32 - INFO - [raw sql] {}
+2025-02-25 18:37:32 - INFO - BEGIN (implicit)
+2025-02-25 18:37:32 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:37:32 - INFO - [raw sql] {}
+2025-02-25 18:37:32 - INFO - COMMIT
+2025-02-25 18:37:41 - INFO - SELECT DATABASE()
+2025-02-25 18:37:41 - INFO - [raw sql] {}
+2025-02-25 18:37:41 - INFO - SELECT @@sql_mode
+2025-02-25 18:37:41 - INFO - [raw sql] {}
+2025-02-25 18:37:41 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:37:41 - INFO - [raw sql] {}
+2025-02-25 18:37:41 - INFO - BEGIN (implicit)
+2025-02-25 18:37:41 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:37:41 - INFO - [raw sql] {}
+2025-02-25 18:37:41 - INFO - COMMIT
+2025-02-25 18:37:47 - INFO - SELECT DATABASE()
+2025-02-25 18:37:47 - INFO - [raw sql] {}
+2025-02-25 18:37:47 - INFO - SELECT @@sql_mode
+2025-02-25 18:37:47 - INFO - [raw sql] {}
+2025-02-25 18:37:47 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:37:47 - INFO - [raw sql] {}
+2025-02-25 18:37:47 - INFO - BEGIN (implicit)
+2025-02-25 18:37:47 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:37:47 - INFO - [raw sql] {}
+2025-02-25 18:37:47 - INFO - COMMIT
+2025-02-25 18:37:52 - INFO - SELECT DATABASE()
+2025-02-25 18:37:52 - INFO - [raw sql] {}
+2025-02-25 18:37:52 - INFO - SELECT @@sql_mode
+2025-02-25 18:37:52 - INFO - [raw sql] {}
+2025-02-25 18:37:52 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:37:52 - INFO - [raw sql] {}
+2025-02-25 18:37:52 - INFO - BEGIN (implicit)
+2025-02-25 18:37:52 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:37:52 - INFO - [raw sql] {}
+2025-02-25 18:37:53 - INFO - COMMIT
+2025-02-25 18:38:01 - INFO - SELECT DATABASE()
+2025-02-25 18:38:01 - INFO - [raw sql] {}
+2025-02-25 18:38:01 - INFO - SELECT @@sql_mode
+2025-02-25 18:38:01 - INFO - [raw sql] {}
+2025-02-25 18:38:01 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:38:01 - INFO - [raw sql] {}
+2025-02-25 18:38:01 - INFO - BEGIN (implicit)
+2025-02-25 18:38:01 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:38:01 - INFO - [raw sql] {}
+2025-02-25 18:38:01 - INFO - COMMIT
+2025-02-25 18:38:09 - INFO - SELECT DATABASE()
+2025-02-25 18:38:09 - INFO - [raw sql] {}
+2025-02-25 18:38:09 - INFO - SELECT @@sql_mode
+2025-02-25 18:38:09 - INFO - [raw sql] {}
+2025-02-25 18:38:09 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:38:09 - INFO - [raw sql] {}
+2025-02-25 18:38:09 - INFO - BEGIN (implicit)
+2025-02-25 18:38:09 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:38:09 - INFO - [raw sql] {}
+2025-02-25 18:38:09 - INFO - COMMIT
+2025-02-25 18:38:15 - INFO - SELECT DATABASE()
+2025-02-25 18:38:15 - INFO - [raw sql] {}
+2025-02-25 18:38:15 - INFO - SELECT @@sql_mode
+2025-02-25 18:38:15 - INFO - [raw sql] {}
+2025-02-25 18:38:15 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:38:15 - INFO - [raw sql] {}
+2025-02-25 18:38:15 - INFO - BEGIN (implicit)
+2025-02-25 18:38:15 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:38:15 - INFO - [raw sql] {}
+2025-02-25 18:38:15 - INFO - COMMIT
+2025-02-25 18:38:18 - INFO - SELECT DATABASE()
+2025-02-25 18:38:18 - INFO - [raw sql] {}
+2025-02-25 18:38:18 - INFO - SELECT @@sql_mode
+2025-02-25 18:38:18 - INFO - [raw sql] {}
+2025-02-25 18:38:18 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:38:18 - INFO - [raw sql] {}
+2025-02-25 18:38:18 - INFO - BEGIN (implicit)
+2025-02-25 18:38:18 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:38:18 - INFO - [raw sql] {}
+2025-02-25 18:38:18 - INFO - COMMIT
+2025-02-25 18:38:38 - INFO - SELECT DATABASE()
+2025-02-25 18:38:38 - INFO - [raw sql] {}
+2025-02-25 18:38:38 - INFO - SELECT @@sql_mode
+2025-02-25 18:38:38 - INFO - [raw sql] {}
+2025-02-25 18:38:38 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:38:38 - INFO - [raw sql] {}
+2025-02-25 18:38:38 - INFO - BEGIN (implicit)
+2025-02-25 18:38:38 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:38:38 - INFO - [raw sql] {}
+2025-02-25 18:38:38 - INFO - COMMIT
+2025-02-25 18:38:45 - INFO - SELECT DATABASE()
+2025-02-25 18:38:45 - INFO - [raw sql] {}
+2025-02-25 18:38:45 - INFO - SELECT @@sql_mode
+2025-02-25 18:38:45 - INFO - [raw sql] {}
+2025-02-25 18:38:45 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:38:45 - INFO - [raw sql] {}
+2025-02-25 18:38:45 - INFO - BEGIN (implicit)
+2025-02-25 18:38:45 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:38:45 - INFO - [raw sql] {}
+2025-02-25 18:38:45 - INFO - COMMIT
+2025-02-25 18:38:50 - INFO - SELECT DATABASE()
+2025-02-25 18:38:50 - INFO - [raw sql] {}
+2025-02-25 18:38:50 - INFO - SELECT @@sql_mode
+2025-02-25 18:38:50 - INFO - [raw sql] {}
+2025-02-25 18:38:50 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:38:50 - INFO - [raw sql] {}
+2025-02-25 18:38:50 - INFO - BEGIN (implicit)
+2025-02-25 18:38:50 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:38:50 - INFO - [raw sql] {}
+2025-02-25 18:38:50 - INFO - COMMIT
+2025-02-25 18:41:40 - INFO - SELECT DATABASE()
+2025-02-25 18:41:40 - INFO - [raw sql] {}
+2025-02-25 18:41:40 - INFO - SELECT @@sql_mode
+2025-02-25 18:41:40 - INFO - [raw sql] {}
+2025-02-25 18:41:40 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:41:40 - INFO - [raw sql] {}
+2025-02-25 18:41:40 - INFO - BEGIN (implicit)
+2025-02-25 18:41:40 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:41:40 - INFO - [raw sql] {}
+2025-02-25 18:41:40 - INFO - COMMIT
+2025-02-25 18:41:43 - INFO - SELECT DATABASE()
+2025-02-25 18:41:43 - INFO - [raw sql] {}
+2025-02-25 18:41:43 - INFO - SELECT @@sql_mode
+2025-02-25 18:41:43 - INFO - [raw sql] {}
+2025-02-25 18:41:43 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:41:43 - INFO - [raw sql] {}
+2025-02-25 18:41:43 - INFO - BEGIN (implicit)
+2025-02-25 18:41:43 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:41:43 - INFO - [raw sql] {}
+2025-02-25 18:41:43 - INFO - COMMIT
+2025-02-25 18:43:21 - INFO - SELECT DATABASE()
+2025-02-25 18:43:21 - INFO - [raw sql] {}
+2025-02-25 18:43:21 - INFO - SELECT @@sql_mode
+2025-02-25 18:43:21 - INFO - [raw sql] {}
+2025-02-25 18:43:21 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:43:21 - INFO - [raw sql] {}
+2025-02-25 18:43:21 - INFO - BEGIN (implicit)
+2025-02-25 18:43:21 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:43:21 - INFO - [raw sql] {}
+2025-02-25 18:43:21 - INFO - COMMIT
+2025-02-25 18:43:29 - INFO - SELECT DATABASE()
+2025-02-25 18:43:29 - INFO - [raw sql] {}
+2025-02-25 18:43:29 - INFO - SELECT @@sql_mode
+2025-02-25 18:43:29 - INFO - [raw sql] {}
+2025-02-25 18:43:29 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:43:29 - INFO - [raw sql] {}
+2025-02-25 18:43:29 - INFO - BEGIN (implicit)
+2025-02-25 18:43:29 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:43:29 - INFO - [raw sql] {}
+2025-02-25 18:43:29 - INFO - COMMIT
+2025-02-25 18:43:36 - INFO - SELECT DATABASE()
+2025-02-25 18:43:36 - INFO - [raw sql] {}
+2025-02-25 18:43:36 - INFO - SELECT @@sql_mode
+2025-02-25 18:43:36 - INFO - [raw sql] {}
+2025-02-25 18:43:36 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:43:36 - INFO - [raw sql] {}
+2025-02-25 18:43:36 - INFO - BEGIN (implicit)
+2025-02-25 18:43:36 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:43:36 - INFO - [raw sql] {}
+2025-02-25 18:43:36 - INFO - COMMIT
+2025-02-25 18:43:43 - INFO - SELECT DATABASE()
+2025-02-25 18:43:43 - INFO - [raw sql] {}
+2025-02-25 18:43:43 - INFO - SELECT @@sql_mode
+2025-02-25 18:43:43 - INFO - [raw sql] {}
+2025-02-25 18:43:43 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:43:43 - INFO - [raw sql] {}
+2025-02-25 18:43:43 - INFO - BEGIN (implicit)
+2025-02-25 18:43:43 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:43:43 - INFO - [raw sql] {}
+2025-02-25 18:43:43 - INFO - COMMIT
+2025-02-25 18:43:50 - INFO - SELECT DATABASE()
+2025-02-25 18:43:50 - INFO - [raw sql] {}
+2025-02-25 18:43:50 - INFO - SELECT @@sql_mode
+2025-02-25 18:43:50 - INFO - [raw sql] {}
+2025-02-25 18:43:50 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:43:50 - INFO - [raw sql] {}
+2025-02-25 18:43:50 - INFO - BEGIN (implicit)
+2025-02-25 18:43:50 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:43:50 - INFO - [raw sql] {}
+2025-02-25 18:43:50 - INFO - COMMIT
+2025-02-25 18:43:55 - INFO - SELECT DATABASE()
+2025-02-25 18:43:55 - INFO - [raw sql] {}
+2025-02-25 18:43:55 - INFO - SELECT @@sql_mode
+2025-02-25 18:43:55 - INFO - [raw sql] {}
+2025-02-25 18:43:55 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:43:55 - INFO - [raw sql] {}
+2025-02-25 18:43:55 - INFO - BEGIN (implicit)
+2025-02-25 18:43:55 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:43:55 - INFO - [raw sql] {}
+2025-02-25 18:43:55 - INFO - COMMIT
+2025-02-25 18:43:58 - INFO - SELECT DATABASE()
+2025-02-25 18:43:58 - INFO - [raw sql] {}
+2025-02-25 18:43:58 - INFO - SELECT @@sql_mode
+2025-02-25 18:43:58 - INFO - [raw sql] {}
+2025-02-25 18:43:58 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:43:58 - INFO - [raw sql] {}
+2025-02-25 18:43:58 - INFO - BEGIN (implicit)
+2025-02-25 18:43:58 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:43:58 - INFO - [raw sql] {}
+2025-02-25 18:43:58 - INFO - COMMIT
+2025-02-25 18:44:15 - INFO - SELECT DATABASE()
+2025-02-25 18:44:15 - INFO - [raw sql] {}
+2025-02-25 18:44:15 - INFO - SELECT @@sql_mode
+2025-02-25 18:44:15 - INFO - [raw sql] {}
+2025-02-25 18:44:15 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:44:15 - INFO - [raw sql] {}
+2025-02-25 18:44:15 - INFO - BEGIN (implicit)
+2025-02-25 18:44:15 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:44:15 - INFO - [raw sql] {}
+2025-02-25 18:44:15 - INFO - COMMIT
+2025-02-25 18:44:22 - INFO - SELECT DATABASE()
+2025-02-25 18:44:22 - INFO - [raw sql] {}
+2025-02-25 18:44:22 - INFO - SELECT @@sql_mode
+2025-02-25 18:44:22 - INFO - [raw sql] {}
+2025-02-25 18:44:22 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:44:22 - INFO - [raw sql] {}
+2025-02-25 18:44:22 - INFO - BEGIN (implicit)
+2025-02-25 18:44:22 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:44:22 - INFO - [raw sql] {}
+2025-02-25 18:44:22 - INFO - COMMIT
+2025-02-25 18:44:31 - INFO - SELECT DATABASE()
+2025-02-25 18:44:31 - INFO - [raw sql] {}
+2025-02-25 18:44:31 - INFO - SELECT @@sql_mode
+2025-02-25 18:44:31 - INFO - [raw sql] {}
+2025-02-25 18:44:31 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:44:31 - INFO - [raw sql] {}
+2025-02-25 18:44:31 - INFO - BEGIN (implicit)
+2025-02-25 18:44:31 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:44:31 - INFO - [raw sql] {}
+2025-02-25 18:44:31 - INFO - COMMIT
+2025-02-25 18:44:36 - INFO - SELECT DATABASE()
+2025-02-25 18:44:36 - INFO - [raw sql] {}
+2025-02-25 18:44:36 - INFO - SELECT @@sql_mode
+2025-02-25 18:44:36 - INFO - [raw sql] {}
+2025-02-25 18:44:36 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:44:36 - INFO - [raw sql] {}
+2025-02-25 18:44:36 - INFO - BEGIN (implicit)
+2025-02-25 18:44:36 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:44:36 - INFO - [raw sql] {}
+2025-02-25 18:44:36 - INFO - COMMIT
+2025-02-25 18:44:41 - INFO - SELECT DATABASE()
+2025-02-25 18:44:41 - INFO - [raw sql] {}
+2025-02-25 18:44:41 - INFO - SELECT @@sql_mode
+2025-02-25 18:44:41 - INFO - [raw sql] {}
+2025-02-25 18:44:41 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:44:41 - INFO - [raw sql] {}
+2025-02-25 18:44:41 - INFO - BEGIN (implicit)
+2025-02-25 18:44:41 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:44:41 - INFO - [raw sql] {}
+2025-02-25 18:44:41 - INFO - COMMIT
+2025-02-25 18:44:48 - INFO - SELECT DATABASE()
+2025-02-25 18:44:48 - INFO - [raw sql] {}
+2025-02-25 18:44:48 - INFO - SELECT @@sql_mode
+2025-02-25 18:44:48 - INFO - [raw sql] {}
+2025-02-25 18:44:48 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:44:48 - INFO - [raw sql] {}
+2025-02-25 18:44:48 - INFO - BEGIN (implicit)
+2025-02-25 18:44:48 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:44:48 - INFO - [raw sql] {}
+2025-02-25 18:44:48 - INFO - COMMIT
+2025-02-25 18:44:56 - INFO - SELECT DATABASE()
+2025-02-25 18:44:56 - INFO - [raw sql] {}
+2025-02-25 18:44:56 - INFO - SELECT @@sql_mode
+2025-02-25 18:44:56 - INFO - [raw sql] {}
+2025-02-25 18:44:56 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:44:56 - INFO - [raw sql] {}
+2025-02-25 18:44:56 - INFO - BEGIN (implicit)
+2025-02-25 18:44:56 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:44:56 - INFO - [raw sql] {}
+2025-02-25 18:44:56 - INFO - COMMIT
+2025-02-25 18:45:04 - INFO - SELECT DATABASE()
+2025-02-25 18:45:04 - INFO - [raw sql] {}
+2025-02-25 18:45:04 - INFO - SELECT @@sql_mode
+2025-02-25 18:45:04 - INFO - [raw sql] {}
+2025-02-25 18:45:04 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:45:04 - INFO - [raw sql] {}
+2025-02-25 18:45:04 - INFO - BEGIN (implicit)
+2025-02-25 18:45:04 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:45:04 - INFO - [raw sql] {}
+2025-02-25 18:45:04 - INFO - COMMIT
+2025-02-25 18:45:11 - INFO - SELECT DATABASE()
+2025-02-25 18:45:11 - INFO - [raw sql] {}
+2025-02-25 18:45:11 - INFO - SELECT @@sql_mode
+2025-02-25 18:45:11 - INFO - [raw sql] {}
+2025-02-25 18:45:11 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:45:11 - INFO - [raw sql] {}
+2025-02-25 18:45:11 - INFO - BEGIN (implicit)
+2025-02-25 18:45:11 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:45:11 - INFO - [raw sql] {}
+2025-02-25 18:45:11 - INFO - COMMIT
+2025-02-25 18:45:15 - INFO - SELECT DATABASE()
+2025-02-25 18:45:15 - INFO - [raw sql] {}
+2025-02-25 18:45:15 - INFO - SELECT @@sql_mode
+2025-02-25 18:45:15 - INFO - [raw sql] {}
+2025-02-25 18:45:15 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:45:15 - INFO - [raw sql] {}
+2025-02-25 18:45:15 - INFO - BEGIN (implicit)
+2025-02-25 18:45:15 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:45:15 - INFO - [raw sql] {}
+2025-02-25 18:45:15 - INFO - COMMIT
+2025-02-25 18:45:20 - INFO - SELECT DATABASE()
+2025-02-25 18:45:20 - INFO - [raw sql] {}
+2025-02-25 18:45:20 - INFO - SELECT @@sql_mode
+2025-02-25 18:45:20 - INFO - [raw sql] {}
+2025-02-25 18:45:20 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:45:20 - INFO - [raw sql] {}
+2025-02-25 18:45:20 - INFO - BEGIN (implicit)
+2025-02-25 18:45:20 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:45:20 - INFO - [raw sql] {}
+2025-02-25 18:45:20 - INFO - COMMIT
+2025-02-25 18:45:29 - INFO - SELECT DATABASE()
+2025-02-25 18:45:29 - INFO - [raw sql] {}
+2025-02-25 18:45:29 - INFO - SELECT @@sql_mode
+2025-02-25 18:45:29 - INFO - [raw sql] {}
+2025-02-25 18:45:29 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:45:29 - INFO - [raw sql] {}
+2025-02-25 18:45:29 - INFO - BEGIN (implicit)
+2025-02-25 18:45:29 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:45:29 - INFO - [raw sql] {}
+2025-02-25 18:45:29 - INFO - COMMIT
+2025-02-25 18:45:32 - INFO - SELECT DATABASE()
+2025-02-25 18:45:32 - INFO - [raw sql] {}
+2025-02-25 18:45:32 - INFO - SELECT @@sql_mode
+2025-02-25 18:45:32 - INFO - [raw sql] {}
+2025-02-25 18:45:32 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:45:32 - INFO - [raw sql] {}
+2025-02-25 18:45:32 - INFO - BEGIN (implicit)
+2025-02-25 18:45:32 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:45:32 - INFO - [raw sql] {}
+2025-02-25 18:45:32 - INFO - COMMIT
+2025-02-25 18:50:15 - INFO - SELECT DATABASE()
+2025-02-25 18:50:15 - INFO - [raw sql] {}
+2025-02-25 18:50:15 - INFO - SELECT @@sql_mode
+2025-02-25 18:50:15 - INFO - [raw sql] {}
+2025-02-25 18:50:15 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:50:15 - INFO - [raw sql] {}
+2025-02-25 18:50:15 - INFO - BEGIN (implicit)
+2025-02-25 18:50:15 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:50:15 - INFO - [raw sql] {}
+2025-02-25 18:50:15 - INFO - COMMIT
+2025-02-25 18:50:21 - INFO - SELECT DATABASE()
+2025-02-25 18:50:21 - INFO - [raw sql] {}
+2025-02-25 18:50:22 - INFO - SELECT @@sql_mode
+2025-02-25 18:50:22 - INFO - [raw sql] {}
+2025-02-25 18:50:22 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:50:22 - INFO - [raw sql] {}
+2025-02-25 18:50:22 - INFO - BEGIN (implicit)
+2025-02-25 18:50:22 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:50:22 - INFO - [raw sql] {}
+2025-02-25 18:50:22 - INFO - COMMIT
+2025-02-25 18:50:27 - INFO - SELECT DATABASE()
+2025-02-25 18:50:27 - INFO - [raw sql] {}
+2025-02-25 18:50:27 - INFO - SELECT @@sql_mode
+2025-02-25 18:50:27 - INFO - [raw sql] {}
+2025-02-25 18:50:27 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:50:27 - INFO - [raw sql] {}
+2025-02-25 18:50:27 - INFO - BEGIN (implicit)
+2025-02-25 18:50:27 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:50:27 - INFO - [raw sql] {}
+2025-02-25 18:50:27 - INFO - COMMIT
+2025-02-25 18:50:46 - INFO - SELECT DATABASE()
+2025-02-25 18:50:46 - INFO - [raw sql] {}
+2025-02-25 18:50:46 - INFO - SELECT @@sql_mode
+2025-02-25 18:50:46 - INFO - [raw sql] {}
+2025-02-25 18:50:46 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:50:46 - INFO - [raw sql] {}
+2025-02-25 18:50:46 - INFO - BEGIN (implicit)
+2025-02-25 18:50:46 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:50:46 - INFO - [raw sql] {}
+2025-02-25 18:50:46 - INFO - COMMIT
+2025-02-25 18:50:53 - INFO - SELECT DATABASE()
+2025-02-25 18:50:53 - INFO - [raw sql] {}
+2025-02-25 18:50:53 - INFO - SELECT @@sql_mode
+2025-02-25 18:50:53 - INFO - [raw sql] {}
+2025-02-25 18:50:53 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:50:53 - INFO - [raw sql] {}
+2025-02-25 18:50:53 - INFO - BEGIN (implicit)
+2025-02-25 18:50:53 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:50:53 - INFO - [raw sql] {}
+2025-02-25 18:50:53 - INFO - COMMIT
+2025-02-25 18:50:57 - INFO - SELECT DATABASE()
+2025-02-25 18:50:57 - INFO - [raw sql] {}
+2025-02-25 18:50:57 - INFO - SELECT @@sql_mode
+2025-02-25 18:50:57 - INFO - [raw sql] {}
+2025-02-25 18:50:57 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:50:57 - INFO - [raw sql] {}
+2025-02-25 18:50:57 - INFO - BEGIN (implicit)
+2025-02-25 18:50:57 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:50:57 - INFO - [raw sql] {}
+2025-02-25 18:50:57 - INFO - COMMIT
+2025-02-25 18:51:19 - INFO - SELECT DATABASE()
+2025-02-25 18:51:19 - INFO - [raw sql] {}
+2025-02-25 18:51:19 - INFO - SELECT @@sql_mode
+2025-02-25 18:51:19 - INFO - [raw sql] {}
+2025-02-25 18:51:19 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:51:19 - INFO - [raw sql] {}
+2025-02-25 18:51:19 - INFO - BEGIN (implicit)
+2025-02-25 18:51:19 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:51:19 - INFO - [raw sql] {}
+2025-02-25 18:51:19 - INFO - COMMIT
+2025-02-25 18:51:24 - INFO - SELECT DATABASE()
+2025-02-25 18:51:24 - INFO - [raw sql] {}
+2025-02-25 18:51:24 - INFO - SELECT @@sql_mode
+2025-02-25 18:51:24 - INFO - [raw sql] {}
+2025-02-25 18:51:24 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:51:24 - INFO - [raw sql] {}
+2025-02-25 18:51:24 - INFO - BEGIN (implicit)
+2025-02-25 18:51:24 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:51:24 - INFO - [raw sql] {}
+2025-02-25 18:51:24 - INFO - COMMIT
+2025-02-25 18:51:27 - INFO - SELECT DATABASE()
+2025-02-25 18:51:27 - INFO - [raw sql] {}
+2025-02-25 18:51:27 - INFO - SELECT @@sql_mode
+2025-02-25 18:51:27 - INFO - [raw sql] {}
+2025-02-25 18:51:27 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:51:27 - INFO - [raw sql] {}
+2025-02-25 18:51:27 - INFO - BEGIN (implicit)
+2025-02-25 18:51:27 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:51:27 - INFO - [raw sql] {}
+2025-02-25 18:51:27 - INFO - COMMIT
+2025-02-25 18:51:36 - INFO - SELECT DATABASE()
+2025-02-25 18:51:36 - INFO - [raw sql] {}
+2025-02-25 18:51:36 - INFO - SELECT @@sql_mode
+2025-02-25 18:51:36 - INFO - [raw sql] {}
+2025-02-25 18:51:36 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:51:36 - INFO - [raw sql] {}
+2025-02-25 18:51:36 - INFO - BEGIN (implicit)
+2025-02-25 18:51:36 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:51:36 - INFO - [raw sql] {}
+2025-02-25 18:51:36 - INFO - COMMIT
+2025-02-25 18:51:40 - INFO - SELECT DATABASE()
+2025-02-25 18:51:40 - INFO - [raw sql] {}
+2025-02-25 18:51:40 - INFO - SELECT @@sql_mode
+2025-02-25 18:51:40 - INFO - [raw sql] {}
+2025-02-25 18:51:40 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:51:40 - INFO - [raw sql] {}
+2025-02-25 18:51:40 - INFO - BEGIN (implicit)
+2025-02-25 18:51:40 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:51:40 - INFO - [raw sql] {}
+2025-02-25 18:51:40 - INFO - COMMIT
+2025-02-25 18:52:06 - INFO - SELECT DATABASE()
+2025-02-25 18:52:06 - INFO - [raw sql] {}
+2025-02-25 18:52:06 - INFO - SELECT @@sql_mode
+2025-02-25 18:52:06 - INFO - [raw sql] {}
+2025-02-25 18:52:06 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:52:06 - INFO - [raw sql] {}
+2025-02-25 18:52:06 - INFO - BEGIN (implicit)
+2025-02-25 18:52:06 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:52:06 - INFO - [raw sql] {}
+2025-02-25 18:52:06 - INFO - COMMIT
+2025-02-25 18:52:11 - INFO - SELECT DATABASE()
+2025-02-25 18:52:11 - INFO - [raw sql] {}
+2025-02-25 18:52:11 - INFO - SELECT @@sql_mode
+2025-02-25 18:52:11 - INFO - [raw sql] {}
+2025-02-25 18:52:11 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:52:11 - INFO - [raw sql] {}
+2025-02-25 18:52:11 - INFO - BEGIN (implicit)
+2025-02-25 18:52:11 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:52:11 - INFO - [raw sql] {}
+2025-02-25 18:52:11 - INFO - COMMIT
+2025-02-25 18:52:27 - INFO - SELECT DATABASE()
+2025-02-25 18:52:27 - INFO - [raw sql] {}
+2025-02-25 18:52:27 - INFO - SELECT @@sql_mode
+2025-02-25 18:52:27 - INFO - [raw sql] {}
+2025-02-25 18:52:27 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:52:27 - INFO - [raw sql] {}
+2025-02-25 18:52:27 - INFO - BEGIN (implicit)
+2025-02-25 18:52:27 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:52:27 - INFO - [raw sql] {}
+2025-02-25 18:52:27 - INFO - COMMIT
+2025-02-25 18:54:36 - INFO - SELECT DATABASE()
+2025-02-25 18:54:36 - INFO - [raw sql] {}
+2025-02-25 18:54:36 - INFO - SELECT @@sql_mode
+2025-02-25 18:54:36 - INFO - [raw sql] {}
+2025-02-25 18:54:36 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:54:36 - INFO - [raw sql] {}
+2025-02-25 18:54:36 - INFO - BEGIN (implicit)
+2025-02-25 18:54:36 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:54:36 - INFO - [raw sql] {}
+2025-02-25 18:54:36 - INFO - COMMIT
+2025-02-25 18:54:40 - INFO - SELECT DATABASE()
+2025-02-25 18:54:40 - INFO - [raw sql] {}
+2025-02-25 18:54:40 - INFO - SELECT @@sql_mode
+2025-02-25 18:54:40 - INFO - [raw sql] {}
+2025-02-25 18:54:40 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:54:40 - INFO - [raw sql] {}
+2025-02-25 18:54:40 - INFO - BEGIN (implicit)
+2025-02-25 18:54:40 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:54:40 - INFO - [raw sql] {}
+2025-02-25 18:54:40 - INFO - COMMIT
+2025-02-25 18:55:15 - INFO - SELECT DATABASE()
+2025-02-25 18:55:15 - INFO - [raw sql] {}
+2025-02-25 18:55:15 - INFO - SELECT @@sql_mode
+2025-02-25 18:55:15 - INFO - [raw sql] {}
+2025-02-25 18:55:15 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:55:15 - INFO - [raw sql] {}
+2025-02-25 18:55:15 - INFO - BEGIN (implicit)
+2025-02-25 18:55:15 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:55:15 - INFO - [raw sql] {}
+2025-02-25 18:55:15 - INFO - COMMIT
+2025-02-25 18:55:20 - INFO - SELECT DATABASE()
+2025-02-25 18:55:20 - INFO - [raw sql] {}
+2025-02-25 18:55:20 - INFO - SELECT @@sql_mode
+2025-02-25 18:55:20 - INFO - [raw sql] {}
+2025-02-25 18:55:20 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:55:20 - INFO - [raw sql] {}
+2025-02-25 18:55:20 - INFO - BEGIN (implicit)
+2025-02-25 18:55:20 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:55:20 - INFO - [raw sql] {}
+2025-02-25 18:55:20 - INFO - COMMIT
+2025-02-25 18:55:23 - INFO - SELECT DATABASE()
+2025-02-25 18:55:23 - INFO - [raw sql] {}
+2025-02-25 18:55:23 - INFO - SELECT @@sql_mode
+2025-02-25 18:55:23 - INFO - [raw sql] {}
+2025-02-25 18:55:23 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:55:23 - INFO - [raw sql] {}
+2025-02-25 18:55:23 - INFO - BEGIN (implicit)
+2025-02-25 18:55:23 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:55:23 - INFO - [raw sql] {}
+2025-02-25 18:55:23 - INFO - COMMIT
+2025-02-25 18:55:32 - INFO - SELECT DATABASE()
+2025-02-25 18:55:32 - INFO - [raw sql] {}
+2025-02-25 18:55:32 - INFO - SELECT @@sql_mode
+2025-02-25 18:55:32 - INFO - [raw sql] {}
+2025-02-25 18:55:32 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:55:32 - INFO - [raw sql] {}
+2025-02-25 18:55:32 - INFO - BEGIN (implicit)
+2025-02-25 18:55:32 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:55:32 - INFO - [raw sql] {}
+2025-02-25 18:55:32 - INFO - COMMIT
+2025-02-25 18:55:43 - INFO - SELECT DATABASE()
+2025-02-25 18:55:43 - INFO - [raw sql] {}
+2025-02-25 18:55:43 - INFO - SELECT @@sql_mode
+2025-02-25 18:55:43 - INFO - [raw sql] {}
+2025-02-25 18:55:43 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:55:43 - INFO - [raw sql] {}
+2025-02-25 18:55:43 - INFO - BEGIN (implicit)
+2025-02-25 18:55:43 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:55:43 - INFO - [raw sql] {}
+2025-02-25 18:55:43 - INFO - COMMIT
+2025-02-25 18:55:49 - INFO - SELECT DATABASE()
+2025-02-25 18:55:49 - INFO - [raw sql] {}
+2025-02-25 18:55:49 - INFO - SELECT @@sql_mode
+2025-02-25 18:55:49 - INFO - [raw sql] {}
+2025-02-25 18:55:49 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:55:49 - INFO - [raw sql] {}
+2025-02-25 18:55:49 - INFO - BEGIN (implicit)
+2025-02-25 18:55:49 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:55:49 - INFO - [raw sql] {}
+2025-02-25 18:55:49 - INFO - COMMIT
+2025-02-25 18:55:57 - INFO - SELECT DATABASE()
+2025-02-25 18:55:57 - INFO - [raw sql] {}
+2025-02-25 18:55:57 - INFO - SELECT @@sql_mode
+2025-02-25 18:55:57 - INFO - [raw sql] {}
+2025-02-25 18:55:57 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:55:57 - INFO - [raw sql] {}
+2025-02-25 18:55:57 - INFO - BEGIN (implicit)
+2025-02-25 18:55:57 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:55:57 - INFO - [raw sql] {}
+2025-02-25 18:55:57 - INFO - COMMIT
+2025-02-25 18:56:02 - INFO - SELECT DATABASE()
+2025-02-25 18:56:02 - INFO - [raw sql] {}
+2025-02-25 18:56:02 - INFO - SELECT @@sql_mode
+2025-02-25 18:56:02 - INFO - [raw sql] {}
+2025-02-25 18:56:02 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:56:02 - INFO - [raw sql] {}
+2025-02-25 18:56:02 - INFO - BEGIN (implicit)
+2025-02-25 18:56:02 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:56:02 - INFO - [raw sql] {}
+2025-02-25 18:56:02 - INFO - COMMIT
+2025-02-25 18:57:07 - INFO - SELECT DATABASE()
+2025-02-25 18:57:07 - INFO - [raw sql] {}
+2025-02-25 18:57:07 - INFO - SELECT @@sql_mode
+2025-02-25 18:57:07 - INFO - [raw sql] {}
+2025-02-25 18:57:07 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:57:07 - INFO - [raw sql] {}
+2025-02-25 18:57:08 - INFO - BEGIN (implicit)
+2025-02-25 18:57:08 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:57:08 - INFO - [raw sql] {}
+2025-02-25 18:57:08 - INFO - COMMIT
+2025-02-25 18:57:20 - INFO - SELECT DATABASE()
+2025-02-25 18:57:20 - INFO - [raw sql] {}
+2025-02-25 18:57:20 - INFO - SELECT @@sql_mode
+2025-02-25 18:57:20 - INFO - [raw sql] {}
+2025-02-25 18:57:20 - INFO - SELECT @@lower_case_table_names
+2025-02-25 18:57:20 - INFO - [raw sql] {}
+2025-02-25 18:57:20 - INFO - BEGIN (implicit)
+2025-02-25 18:57:20 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 18:57:20 - INFO - [raw sql] {}
+2025-02-25 18:57:20 - INFO - COMMIT
+2025-02-25 19:47:52 - INFO - SELECT DATABASE()
+2025-02-25 19:47:52 - INFO - [raw sql] {}
+2025-02-25 19:47:52 - INFO - SELECT @@sql_mode
+2025-02-25 19:47:52 - INFO - [raw sql] {}
+2025-02-25 19:47:52 - INFO - SELECT @@lower_case_table_names
+2025-02-25 19:47:52 - INFO - [raw sql] {}
+2025-02-25 19:47:52 - INFO - BEGIN (implicit)
+2025-02-25 19:47:52 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 19:47:52 - INFO - [raw sql] {}
+2025-02-25 19:47:52 - INFO - COMMIT
+2025-02-25 19:47:56 - INFO - SELECT DATABASE()
+2025-02-25 19:47:56 - INFO - [raw sql] {}
+2025-02-25 19:47:56 - INFO - SELECT @@sql_mode
+2025-02-25 19:47:56 - INFO - [raw sql] {}
+2025-02-25 19:47:56 - INFO - SELECT @@lower_case_table_names
+2025-02-25 19:47:56 - INFO - [raw sql] {}
+2025-02-25 19:47:56 - INFO - BEGIN (implicit)
+2025-02-25 19:47:56 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 19:47:56 - INFO - [raw sql] {}
+2025-02-25 19:47:56 - INFO - COMMIT
+2025-02-25 20:00:47 - INFO - SELECT DATABASE()
+2025-02-25 20:00:47 - INFO - [raw sql] {}
+2025-02-25 20:00:47 - INFO - SELECT @@sql_mode
+2025-02-25 20:00:47 - INFO - [raw sql] {}
+2025-02-25 20:00:47 - INFO - SELECT @@lower_case_table_names
+2025-02-25 20:00:47 - INFO - [raw sql] {}
+2025-02-25 20:00:47 - INFO - BEGIN (implicit)
+2025-02-25 20:00:47 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 20:00:47 - INFO - [raw sql] {}
+2025-02-25 20:00:47 - INFO - COMMIT
+2025-02-25 20:00:57 - INFO - SELECT DATABASE()
+2025-02-25 20:00:57 - INFO - [raw sql] {}
+2025-02-25 20:00:57 - INFO - SELECT @@sql_mode
+2025-02-25 20:00:57 - INFO - [raw sql] {}
+2025-02-25 20:00:57 - INFO - SELECT @@lower_case_table_names
+2025-02-25 20:00:57 - INFO - [raw sql] {}
+2025-02-25 20:00:57 - INFO - BEGIN (implicit)
+2025-02-25 20:00:57 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 20:00:57 - INFO - [raw sql] {}
+2025-02-25 20:00:57 - INFO - COMMIT
+2025-02-25 20:01:00 - INFO - SELECT DATABASE()
+2025-02-25 20:01:00 - INFO - [raw sql] {}
+2025-02-25 20:01:01 - INFO - SELECT @@sql_mode
+2025-02-25 20:01:01 - INFO - [raw sql] {}
+2025-02-25 20:01:01 - INFO - SELECT @@lower_case_table_names
+2025-02-25 20:01:01 - INFO - [raw sql] {}
+2025-02-25 20:01:01 - INFO - BEGIN (implicit)
+2025-02-25 20:01:01 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 20:01:01 - INFO - [raw sql] {}
+2025-02-25 20:01:01 - INFO - COMMIT
+2025-02-25 20:01:11 - INFO - SELECT DATABASE()
+2025-02-25 20:01:11 - INFO - [raw sql] {}
+2025-02-25 20:01:11 - INFO - SELECT @@sql_mode
+2025-02-25 20:01:11 - INFO - [raw sql] {}
+2025-02-25 20:01:11 - INFO - SELECT @@lower_case_table_names
+2025-02-25 20:01:11 - INFO - [raw sql] {}
+2025-02-25 20:01:11 - INFO - BEGIN (implicit)
+2025-02-25 20:01:11 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 20:01:11 - INFO - [raw sql] {}
+2025-02-25 20:01:11 - INFO - COMMIT
+2025-02-25 20:01:17 - INFO - SELECT DATABASE()
+2025-02-25 20:01:17 - INFO - [raw sql] {}
+2025-02-25 20:01:17 - INFO - SELECT @@sql_mode
+2025-02-25 20:01:17 - INFO - [raw sql] {}
+2025-02-25 20:01:17 - INFO - SELECT @@lower_case_table_names
+2025-02-25 20:01:17 - INFO - [raw sql] {}
+2025-02-25 20:01:17 - INFO - BEGIN (implicit)
+2025-02-25 20:01:17 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 20:01:17 - INFO - [raw sql] {}
+2025-02-25 20:01:17 - INFO - COMMIT
+2025-02-25 20:01:20 - INFO - SELECT DATABASE()
+2025-02-25 20:01:20 - INFO - [raw sql] {}
+2025-02-25 20:01:20 - INFO - SELECT @@sql_mode
+2025-02-25 20:01:20 - INFO - [raw sql] {}
+2025-02-25 20:01:20 - INFO - SELECT @@lower_case_table_names
+2025-02-25 20:01:20 - INFO - [raw sql] {}
+2025-02-25 20:01:20 - INFO - BEGIN (implicit)
+2025-02-25 20:01:20 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 20:01:20 - INFO - [raw sql] {}
+2025-02-25 20:01:20 - INFO - COMMIT
+2025-02-25 20:02:42 - INFO - SELECT DATABASE()
+2025-02-25 20:02:42 - INFO - [raw sql] {}
+2025-02-25 20:02:42 - INFO - SELECT @@sql_mode
+2025-02-25 20:02:42 - INFO - [raw sql] {}
+2025-02-25 20:02:42 - INFO - SELECT @@lower_case_table_names
+2025-02-25 20:02:42 - INFO - [raw sql] {}
+2025-02-25 20:02:42 - INFO - BEGIN (implicit)
+2025-02-25 20:02:42 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 20:02:42 - INFO - [raw sql] {}
+2025-02-25 20:02:42 - INFO - COMMIT
+2025-02-25 20:02:46 - INFO - SELECT DATABASE()
+2025-02-25 20:02:46 - INFO - [raw sql] {}
+2025-02-25 20:02:46 - INFO - SELECT @@sql_mode
+2025-02-25 20:02:46 - INFO - [raw sql] {}
+2025-02-25 20:02:46 - INFO - SELECT @@lower_case_table_names
+2025-02-25 20:02:46 - INFO - [raw sql] {}
+2025-02-25 20:02:46 - INFO - BEGIN (implicit)
+2025-02-25 20:02:46 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 20:02:46 - INFO - [raw sql] {}
+2025-02-25 20:02:47 - INFO - COMMIT
+2025-02-25 20:02:57 - INFO - SELECT DATABASE()
+2025-02-25 20:02:57 - INFO - [raw sql] {}
+2025-02-25 20:02:57 - INFO - SELECT @@sql_mode
+2025-02-25 20:02:57 - INFO - [raw sql] {}
+2025-02-25 20:02:57 - INFO - SELECT @@lower_case_table_names
+2025-02-25 20:02:57 - INFO - [raw sql] {}
+2025-02-25 20:02:57 - INFO - BEGIN (implicit)
+2025-02-25 20:02:57 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 20:02:57 - INFO - [raw sql] {}
+2025-02-25 20:02:57 - INFO - COMMIT
+2025-02-25 20:03:01 - INFO - SELECT DATABASE()
+2025-02-25 20:03:01 - INFO - [raw sql] {}
+2025-02-25 20:03:01 - INFO - SELECT @@sql_mode
+2025-02-25 20:03:01 - INFO - [raw sql] {}
+2025-02-25 20:03:01 - INFO - SELECT @@lower_case_table_names
+2025-02-25 20:03:01 - INFO - [raw sql] {}
+2025-02-25 20:03:01 - INFO - BEGIN (implicit)
+2025-02-25 20:03:01 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 20:03:01 - INFO - [raw sql] {}
+2025-02-25 20:03:01 - INFO - COMMIT
+2025-02-25 20:03:10 - INFO - SELECT DATABASE()
+2025-02-25 20:03:10 - INFO - [raw sql] {}
+2025-02-25 20:03:10 - INFO - SELECT @@sql_mode
+2025-02-25 20:03:10 - INFO - [raw sql] {}
+2025-02-25 20:03:10 - INFO - SELECT @@lower_case_table_names
+2025-02-25 20:03:10 - INFO - [raw sql] {}
+2025-02-25 20:03:10 - INFO - BEGIN (implicit)
+2025-02-25 20:03:10 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 20:03:10 - INFO - [raw sql] {}
+2025-02-25 20:03:10 - INFO - COMMIT
+2025-02-25 20:03:15 - INFO - SELECT DATABASE()
+2025-02-25 20:03:15 - INFO - [raw sql] {}
+2025-02-25 20:03:15 - INFO - SELECT @@sql_mode
+2025-02-25 20:03:15 - INFO - [raw sql] {}
+2025-02-25 20:03:15 - INFO - SELECT @@lower_case_table_names
+2025-02-25 20:03:15 - INFO - [raw sql] {}
+2025-02-25 20:03:15 - INFO - BEGIN (implicit)
+2025-02-25 20:03:15 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 20:03:15 - INFO - [raw sql] {}
+2025-02-25 20:03:15 - INFO - COMMIT
+2025-02-25 20:03:24 - INFO - SELECT DATABASE()
+2025-02-25 20:03:24 - INFO - [raw sql] {}
+2025-02-25 20:03:24 - INFO - SELECT @@sql_mode
+2025-02-25 20:03:24 - INFO - [raw sql] {}
+2025-02-25 20:03:24 - INFO - SELECT @@lower_case_table_names
+2025-02-25 20:03:24 - INFO - [raw sql] {}
+2025-02-25 20:03:24 - INFO - BEGIN (implicit)
+2025-02-25 20:03:24 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 20:03:24 - INFO - [raw sql] {}
+2025-02-25 20:03:24 - INFO - COMMIT
+2025-02-25 20:03:41 - INFO - SELECT DATABASE()
+2025-02-25 20:03:41 - INFO - [raw sql] {}
+2025-02-25 20:03:41 - INFO - SELECT @@sql_mode
+2025-02-25 20:03:41 - INFO - [raw sql] {}
+2025-02-25 20:03:41 - INFO - SELECT @@lower_case_table_names
+2025-02-25 20:03:41 - INFO - [raw sql] {}
+2025-02-25 20:03:41 - INFO - BEGIN (implicit)
+2025-02-25 20:03:41 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 20:03:42 - INFO - [raw sql] {}
+2025-02-25 20:03:42 - INFO - COMMIT
+2025-02-25 20:03:46 - INFO - SELECT DATABASE()
+2025-02-25 20:03:46 - INFO - [raw sql] {}
+2025-02-25 20:03:46 - INFO - SELECT @@sql_mode
+2025-02-25 20:03:46 - INFO - [raw sql] {}
+2025-02-25 20:03:46 - INFO - SELECT @@lower_case_table_names
+2025-02-25 20:03:46 - INFO - [raw sql] {}
+2025-02-25 20:03:46 - INFO - BEGIN (implicit)
+2025-02-25 20:03:46 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 20:03:46 - INFO - [raw sql] {}
+2025-02-25 20:03:46 - INFO - COMMIT
+2025-02-25 20:03:57 - INFO - SELECT DATABASE()
+2025-02-25 20:03:57 - INFO - [raw sql] {}
+2025-02-25 20:03:57 - INFO - SELECT @@sql_mode
+2025-02-25 20:03:57 - INFO - [raw sql] {}
+2025-02-25 20:03:57 - INFO - SELECT @@lower_case_table_names
+2025-02-25 20:03:57 - INFO - [raw sql] {}
+2025-02-25 20:03:57 - INFO - BEGIN (implicit)
+2025-02-25 20:03:57 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 20:03:57 - INFO - [raw sql] {}
+2025-02-25 20:03:57 - INFO - COMMIT
+2025-02-25 20:04:13 - INFO - SELECT DATABASE()
+2025-02-25 20:04:13 - INFO - [raw sql] {}
+2025-02-25 20:04:13 - INFO - SELECT @@sql_mode
+2025-02-25 20:04:13 - INFO - [raw sql] {}
+2025-02-25 20:04:13 - INFO - SELECT @@lower_case_table_names
+2025-02-25 20:04:13 - INFO - [raw sql] {}
+2025-02-25 20:04:13 - INFO - BEGIN (implicit)
+2025-02-25 20:04:13 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 20:04:13 - INFO - [raw sql] {}
+2025-02-25 20:04:13 - INFO - COMMIT
+2025-02-25 20:09:33 - INFO - SELECT DATABASE()
+2025-02-25 20:09:33 - INFO - [raw sql] {}
+2025-02-25 20:09:33 - INFO - SELECT @@sql_mode
+2025-02-25 20:09:33 - INFO - [raw sql] {}
+2025-02-25 20:09:33 - INFO - SELECT @@lower_case_table_names
+2025-02-25 20:09:33 - INFO - [raw sql] {}
+2025-02-25 20:09:33 - INFO - BEGIN (implicit)
+2025-02-25 20:09:33 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 20:09:33 - INFO - [raw sql] {}
+2025-02-25 20:09:33 - INFO - COMMIT
+2025-02-25 20:14:17 - INFO - SELECT DATABASE()
+2025-02-25 20:14:17 - INFO - [raw sql] {}
+2025-02-25 20:14:17 - INFO - SELECT @@sql_mode
+2025-02-25 20:14:17 - INFO - [raw sql] {}
+2025-02-25 20:14:17 - INFO - SELECT @@lower_case_table_names
+2025-02-25 20:14:17 - INFO - [raw sql] {}
+2025-02-25 20:14:17 - INFO - BEGIN (implicit)
+2025-02-25 20:14:17 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 20:14:17 - INFO - [raw sql] {}
+2025-02-25 20:14:17 - INFO - COMMIT
+2025-02-25 20:19:12 - INFO - SELECT DATABASE()
+2025-02-25 20:19:12 - INFO - [raw sql] {}
+2025-02-25 20:19:12 - INFO - SELECT @@sql_mode
+2025-02-25 20:19:12 - INFO - [raw sql] {}
+2025-02-25 20:19:12 - INFO - SELECT @@lower_case_table_names
+2025-02-25 20:19:12 - INFO - [raw sql] {}
+2025-02-25 20:19:12 - INFO - BEGIN (implicit)
+2025-02-25 20:19:12 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 20:19:12 - INFO - [raw sql] {}
+2025-02-25 20:19:12 - INFO - 
+CREATE TABLE user (
+	id INTEGER NOT NULL AUTO_INCREMENT, 
+	username VARCHAR(50) NOT NULL, 
+	hashed_password VARCHAR(255) NOT NULL, 
+	email VARCHAR(255) NOT NULL, 
+	name VARCHAR(255), 
+	lastname VARCHAR(255), 
+	number_phone VARCHAR(255), 
+	disabled BOOL NOT NULL, 
+	created_at DATETIME NOT NULL, 
+	PRIMARY KEY (id)
+)
+
+
+2025-02-25 20:19:12 - INFO - [no key 0.00269s] {}
+2025-02-25 20:19:12 - INFO - CREATE UNIQUE INDEX ix_user_email ON user (email)
+2025-02-25 20:19:12 - INFO - [no key 0.00254s] {}
+2025-02-25 20:19:12 - INFO - CREATE UNIQUE INDEX ix_user_username ON user (username)
+2025-02-25 20:19:12 - INFO - [no key 0.00443s] {}
+2025-02-25 20:19:12 - INFO - COMMIT
+2025-02-25 20:23:04 - INFO - SELECT DATABASE()
+2025-02-25 20:23:04 - INFO - [raw sql] {}
+2025-02-25 20:23:04 - INFO - SELECT @@sql_mode
+2025-02-25 20:23:04 - INFO - [raw sql] {}
+2025-02-25 20:23:04 - INFO - SELECT @@lower_case_table_names
+2025-02-25 20:23:04 - INFO - [raw sql] {}
+2025-02-25 20:23:04 - INFO - BEGIN (implicit)
+2025-02-25 20:23:04 - INFO - DESCRIBE `loansecure`.`user`
+2025-02-25 20:23:04 - INFO - [raw sql] {}
+2025-02-25 20:23:04 - INFO - COMMIT
