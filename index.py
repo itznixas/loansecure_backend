@@ -5,14 +5,14 @@ from src.database.database import create_db_and_tables, get_session
 from sqlmodel import Session  # Asegúrate de importar Session
 from typing import Annotated  # Usa typing en lugar de typing_extensions
 #from src.routes.user_router import router as user_router
-#from src.auth.auth_routes import router as auth_router
+from src.auth.auth_routes import router as auth_router
 
 import src.models.user_model
-import src.models.client_model
-import src.models.balances_model  
-import src.models.loan_status_model 
-import src.models.payments_model
-import src.models.loan_model
+#import src.models.client_model
+#import src.models.balances_model  
+#import src.models.loan_status_model 
+#import src.models.payments_model
+#import src.models.loan_model
 
 
 app = FastAPI()
@@ -29,7 +29,7 @@ def read_root():
 
 
 #app.include_router(user_router)
-#app.include_router(auth_router)
+app.include_router(auth_router)
 
 @app.on_event("startup")
 def on_startup():

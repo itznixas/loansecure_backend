@@ -26,3 +26,10 @@ class UserLoginSchema(BaseModel):
 
 class UserDisableSchema(BaseModel):
     disable: Optional[bool] = True
+
+
+class UserEmailValidateSchema(BaseModel):
+    email: EmailStr
+
+class UserUsernameValidateSchema(BaseModel):
+    username: str

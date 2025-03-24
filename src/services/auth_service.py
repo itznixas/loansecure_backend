@@ -28,10 +28,12 @@ class AuthService:
             logging.error(f"Error en la autenticación de {email}: {str(e)}")
             session.rollback()  # Revertir cambios en caso de error
             return None
+class CreateToken:
     @staticmethod
     def create_access_token(email: str):
         return create_access_token({"sub": email})
 
+class UserManager:
     @staticmethod
     def get_current_user(token: str, session: Session):
         credentials_exception = HTTPException(

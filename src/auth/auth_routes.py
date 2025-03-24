@@ -7,7 +7,7 @@ from src.services.user_service import user_register_service
 from sqlmodel import Session, select
 from src.auth.jwt_handler import create_access_token, verify_token
 from src.auth.pass_hash import verify_password
-from src.services.auth_service import AuthService
+from src.services.auth_service import AuthService, CreateToken, UserManager
 from typing import Annotated
 from src.utils.logger import logging
 import time
@@ -35,7 +35,7 @@ def login(user_data: UserLoginSchema, session: Session = Depends(get_session)):
     try:
         user = AuthService.authenticate_user(user_data.email, user_data.password, session)
 
-        access_token = AuthService.create_access_token(user.email)
+        access_token = CreateToken.create_access_token(user.email)
         logging.info(f"Login successful: User {user.email} logged in")
 
         return {"access_token": access_token, "token_type": "bearer"}
@@ -51,13 +51,13 @@ async def read_user_me(
 ):
     email = verify_token(token)
     if not email:
-        logging.warning(f"Intento de acceso con token inválido")
+        logging.warning(f"Access attempt with invalid token")
         raise HTTPException(status_code=401, detail="Invalid token")
 
     # Busca al usuario en la base de datos
-    user = AuthService.get_current_user(token, session)
+    user = UserManager.get_current_user(token, session)
     if not user:
-        logging.warning(f"Usuario no encontrado para el token proporcionado")
+        logging.warning(f"User not found for token provided")
         raise HTTPException(status_code=404, detail="User not found")
 
     logging.info(f"User '{user.username}' (ID: {user.id}) accedió a su perfil")
