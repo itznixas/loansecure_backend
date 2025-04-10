@@ -3072,3 +3072,43 @@ FROM user
 WHERE user.username = %(username_1)s
 2025-03-24 03:37:44 - INFO - [generated in 0.00514s] {'username_1': 'Ueree'}
 2025-03-24 03:37:44 - INFO - ROLLBACK
+2025-03-25 02:16:42 - INFO - SELECT DATABASE()
+2025-03-25 02:16:42 - INFO - [raw sql] {}
+2025-03-25 02:16:42 - INFO - SELECT @@sql_mode
+2025-03-25 02:16:42 - INFO - [raw sql] {}
+2025-03-25 02:16:42 - INFO - SELECT @@lower_case_table_names
+2025-03-25 02:16:42 - INFO - [raw sql] {}
+2025-03-25 02:16:42 - INFO - BEGIN (implicit)
+2025-03-25 02:16:42 - INFO - DESCRIBE `loansecure`.`user`
+2025-03-25 02:16:42 - INFO - [raw sql] {}
+2025-03-25 02:16:42 - INFO - COMMIT
+2025-03-25 23:54:45 - INFO - SELECT DATABASE()
+2025-03-25 23:54:45 - INFO - [raw sql] {}
+2025-03-25 23:54:45 - INFO - SELECT @@sql_mode
+2025-03-25 23:54:45 - INFO - [raw sql] {}
+2025-03-25 23:54:45 - INFO - SELECT @@lower_case_table_names
+2025-03-25 23:54:45 - INFO - [raw sql] {}
+2025-03-25 23:54:45 - INFO - BEGIN (implicit)
+2025-03-25 23:54:45 - INFO - DESCRIBE `loansecure`.`user`
+2025-03-25 23:54:45 - INFO - [raw sql] {}
+2025-03-25 23:54:45 - INFO - COMMIT
+2025-03-30 19:14:06 - INFO - SELECT DATABASE()
+2025-03-30 19:14:06 - INFO - [raw sql] {}
+2025-03-30 19:14:06 - INFO - SELECT @@sql_mode
+2025-03-30 19:14:06 - INFO - [raw sql] {}
+2025-03-30 19:14:06 - INFO - SELECT @@lower_case_table_names
+2025-03-30 19:14:06 - INFO - [raw sql] {}
+2025-03-30 19:14:06 - INFO - BEGIN (implicit)
+2025-03-30 19:14:06 - INFO - DESCRIBE `loansecure`.`user`
+2025-03-30 19:14:06 - INFO - [raw sql] {}
+2025-03-30 19:14:06 - INFO - COMMIT
+2025-04-01 14:41:05 - INFO - SELECT DATABASE()
+2025-04-01 14:41:05 - INFO - [raw sql] {}
+2025-04-01 14:41:05 - INFO - SELECT @@sql_mode
+2025-04-01 14:41:05 - INFO - [raw sql] {}
+2025-04-01 14:41:05 - INFO - SELECT @@lower_case_table_names
+2025-04-01 14:41:05 - INFO - [raw sql] {}
+2025-04-01 14:41:05 - INFO - BEGIN (implicit)
+2025-04-01 14:41:05 - INFO - DESCRIBE `loansecure`.`user`
+2025-04-01 14:41:05 - INFO - [raw sql] {}
+2025-04-01 14:41:05 - INFO - COMMIT
