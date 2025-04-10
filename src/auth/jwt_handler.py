@@ -1,11 +1,13 @@
 from datetime import datetime, timedelta
 import jwt
 from fastapi import HTTPException, status
+import os
+from dotenv import load_dotenv
 
 # Configuración de JWT
-SECRET_KEY = "tu_clave_secreta"  # Cambia esto por una clave segura en producción
-ALGORITHM = "HS256"
-ACCESS_TOKEN_EXPIRE_MINUTES = 30  # Tiempo de expiración del token
+SECRET_KEY = os.getenv("SECRET_KEY")
+ALGORITHM =  os.getenv("ALGORITHM")
+ACCESS_TOKEN_EXPIRE_MINUTES = os.getenv("ACCESS_TOKEN_EXPIRE_MINUTES")
 
 def create_access_token(data: dict):
     to_encode = data.copy()

@@ -6,10 +6,10 @@ services:
     container_name: mysql_container
     restart: always
     environment:
-      MYSQL_ROOT_PASSWORD: root
-      MYSQL_DATABASE: loansecure
-      MYSQL_USER: royerjrr
-      MYSQL_PASSWORD: Kira1515
+      MYSQL_ROOT_PASSWORD: ${DB_ROOT}
+      MYSQL_DATABASE: ${DB_DATABASE}
+      MYSQL_USER: ${DB_USER}
+      MYSQL_PASSWORD: ${DB_PASSWORD}
     ports:
       - "3306:3306"
     volumes:
@@ -24,7 +24,7 @@ services:
     depends_on:
       - db
     environment:
-      DATABASE_URL: "mysql+mysqlconnector://royerjrr:Kira1515@db/loansecure"
+      DATABASE_URL: "mysql+mysqlconnector://${DB_USER}:${DB_PASSWORD}@${DB_HOST}/${DB_DATABASE}"
     volumes:
       - .:/app  # <-- Monte el código local dentro del contenedor
     command: ["uvicorn", "index:app", "--host", "0.0.0.0", "--port", "8000", "--reload"]
